@@ -1,0 +1,11 @@
+.container{width:100%; margin:0px; background-color:"green"; border:1px;border-style:solid; line-height:100%}
+
+
+
+.top{padding:1px; background-color:white; border-bottom-style:solid; border-bottom-color:#33cc66;}
+.menu{padding:1px; background-color:#006600; border-bottom-style:solid; border-bottom-color:#33cc66;}
+
+
+.leftnav{float:left; width:200px; margin:0; padding:1em;background-color:#006600;border:1px;border-style:solid;}
+.content{margin-left:235px;border-left:1px solid black;padding:1em;max-width:100%;min-height:550px;background-color:#006600}
+.footer{clear:both;margin:0;color:#336699;background-color:#333366;border-top:1pxsolidblack;}
